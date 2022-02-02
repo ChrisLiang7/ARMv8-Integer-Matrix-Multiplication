@@ -1,4 +1,5 @@
-# CPE 315 Lab 4 Integer Matrix Multiplication - Performance Measurement
+## Integer Matrix Multiplication - Performance Measurement
+* To test the performance difference between self-implemented MUL instruction and ARM MUL intstruction.
 
 ## Name
 * Zhisong Liang
