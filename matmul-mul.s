@@ -1,5 +1,4 @@
 ////////////////////////////////////////////////////////////////////////////////
-// You're implementing the following function in ARM Assembly
 //! C = A * B
 //! @param C          result matrix
 //! @param A          matrix A 
